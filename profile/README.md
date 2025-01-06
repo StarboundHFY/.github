@@ -30,6 +30,9 @@ If you like their content, here are some links to places where you can support t
 
 ## Narrators
 
+> !NOTE\
+> This list is incomplete. Needs more data.
+
 - Larissa aka HFYGirl ( Has her own YouTube channel: https://www.youtube.com/@HFYGirl )
 - VoiceOgre
 - Chikondi
