@@ -53,7 +53,7 @@ After some initial efforts, I'm still unable to get the writers or narrators on 
 Various tools to disseminate the information about series, episodes, narrators, characters and species.
 
 - [ ] Build a database of the series, episodes, narrators, characters and species. Completion: ~70%
-- [ ] Build a `Web API` that serves that database. Completion: ~30%
+- [ ] Build a `Web API` that serves that database. Completion: ~30%\
   Still noodling about what technology to use for the update and maintenance of the `Web API`.
 - [ ] Build a Discord bot that consumes the above mentioned `Web API`. Completion: Not started yet
 - [ ] Possibly build a website that will display the content of the `Web API` in a better manner from the Discord Bot. Completion: Not started yet
