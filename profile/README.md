@@ -28,6 +28,11 @@ If you like their content, here are some links to places where you can support t
 - Space Crabs: https://www.youtube.com/playlist?list=PLgwu8kmth1VTvd1XeP04b3B40SueZW3IJ
 - Humans are Mafia Lords: https://www.youtube.com/playlist?list=PLgwu8kmth1VS4TSgNvwkFmDrzxI2UIT7B
 
+> [!NOTE]
+> From me following the episodes, there are more series.\
+> These are the playlists that are present on the YouTube channel.\
+> Once I'm further along in the data input, hopefully with the help of either writers and/or narrators, I'll have these updated.
+
 ## Narrators
 
 > [!NOTE]
