@@ -43,6 +43,8 @@ This is a list of phases and tasks to achieve a centralization of the data about
 
 The Discord Server.
 
+After some initial efforts, I'm still unable to get the writers or narrators on board with the Discord Server. Guess I'll need to try harder!
+
 - [ ] Get the writers and the narrators on board with appropriate roles.
 - [ ] Customize the server to better suit the needs and format of the community.
 
