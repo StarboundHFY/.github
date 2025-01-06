@@ -1,6 +1,6 @@
 # Starbound HFY
 
-The Starbound HFY is a community of writers and narrators that produce science fiction stories under the genre of "Humans/Humanity F**ck Yeah".
+The Starbound HFY is a community of writers and narrators that produce science fiction stories under the genre of "_Humans/Humanity F**ck Yeah_".
 
 They pride themselves for their human written and narrated stories, instead of the `AI` options that abound in this niche universe of science fiction story telling.
 
@@ -10,6 +10,7 @@ If you like their content, here are some links to places where you can support t
 
 - Merchandise: https://starboundhfy.com
 - Patreon: https://www.patreon.com/starboundhfy
+- Ko-fi: https://ko-fi.com/starboundhfy
 
 ## Links
 
@@ -38,7 +39,7 @@ If you like their content, here are some links to places where you can support t
 > [!NOTE]
 > This list is incomplete. Needs more data.
 
-- Larissa aka HFYGirl ( Has her own YouTube channel: https://www.youtube.com/@HFYGirl )
+- Larissa aka `HFYGirl` ( Has her own YouTube channel: https://www.youtube.com/@HFYGirl )
 - VoiceOgre
 - Chikondi
 - Guardbro
