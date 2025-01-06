@@ -52,7 +52,7 @@ Various tools to disseminate the information about series, episodes, narrators, 
 
 - [ ] Build a database of the series. Completion: ~70%
 - [ ] Build a `Web API` that serves that database. Completion: ~30%
-- [ ] Build a Discord bot that consumes the above mentioned `Web API`. COmpletion: Not started yet.
+- [ ] Build a Discord bot that consumes the above mentioned `Web API`. Completion: Not started yet.
 
 ### Phase III
 
