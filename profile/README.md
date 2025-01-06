@@ -2,7 +2,7 @@
 
 The Starbound HFY is a community of writers and narrators that produce science fiction stories under the genre of "Humans/Humanity F**ck Yeah".
 
-They pride themselves for their human written and narrated stories, instead of the `AI` options that abound in this niche universe of science fiction.
+They pride themselves for their human written and narrated stories, instead of the `AI` options that abound in this niche universe of science fiction story telling.
 
 ## Support
 
