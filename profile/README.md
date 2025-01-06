@@ -34,3 +34,28 @@ If you like their content, here are some links to places you can support them:
 - VoiceOgre
 - Chikondi
 - Guardbro
+
+## The Battle Plan
+
+This is a list of phases and tasks to achieve a centralization of the data about all the series and episodes that the team dishes out at a pace of two per day.
+
+### Phase I
+
+The Discord Server.
+
+- [ ] Get the writers and the narrators on board with appropriate roles.
+- [ ] Customize the server to better suit the needs and format of the community.
+
+### Phase II
+
+Various tools to disseminate the information about series, episodes, narrators, characters and species.
+
+- [ ] Build a database of the series. Completion: ~70%
+- [ ] Build a `Web API` that serves that database. Completion: ~30%
+- [ ] Build a Discord bot that consumes the above mentioned `Web API`. COmpletion: Not started yet.
+
+### Phase III
+
+Pass the mantle of administration to the proper owners of the brand.
+
+- [ ] Relinquish the ownership of the Discord Server to the proper owners of this brand.
