@@ -6,7 +6,7 @@ They pride themselves for their human written and narrated stories, instead of t
 
 ## Support
 
-If you like their content, here are some links to places you can support them:
+If you like their content, here are some links to places where you can support them:
 
 - Merchandise: https://starboundhfy.com
 - Patreon: https://www.patreon.com/starboundhfy
